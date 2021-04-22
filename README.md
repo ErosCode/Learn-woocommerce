@@ -1,2 +1,3 @@
 # Learn-woocommerce
-Test commit 
+
+Rememoring WordPress and adding personnal theme + learning Woo-Commerce
