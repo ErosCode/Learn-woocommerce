@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # Learn-woocommerce
-=======
-# Learn-woocommerce
->>>>>>> first commit
+Test commit 
